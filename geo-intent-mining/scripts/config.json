@@ -1,0 +1,18 @@
+{
+  "feishu": {
+    "app_id": "cli_a96057e004e21cb5",
+    "app_secret": "nZV1V1DBWaM1bEk4cK2frgG7Ce0fCtil",
+    "bitable_app_token": "JqLAb45g4auJEXs4Eq0cITp8nKb",
+    "table_id": "tblA7SgcLDECecGD"
+  },
+  "field_mapping": {
+    "品牌": "品牌",
+    "层级": "层级",
+    "意图标签": "意图标签",
+    "词类型": "词类型",
+    "关键词": "关键词",
+    "场景类型": "场景类型",
+    "优先级": "优先级",
+    "来源渠道": "来源渠道"
+  }
+}
